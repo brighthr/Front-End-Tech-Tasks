@@ -16,6 +16,6 @@
     "wrangler": "^3.23.0"
   },
   "dependencies": {
-    "itty-router": "^3.0.11"
+    "itty-router": "^5.0.17"
   }
 }
