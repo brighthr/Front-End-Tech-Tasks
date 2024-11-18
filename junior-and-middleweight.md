@@ -12,9 +12,18 @@ You are free to decide what aspects of the solution you want to show off/focus o
 
 # The task
 
-BrightHR has a section for storing, uploading and viewing documents. We would like you to build a single page application where a user can view documents that an administrator user has previously uploaded. The application should have the following features:
+BrightHR has a section for storing, uploading and viewing documents. We would like you to build a single page application where a user can view documents that an administrator user has previously uploaded. The application should show a list of folders and files.
 
-- Display the files/folders
+For each file show at least:
+
+- File type
+- Name
+- Date added
+
+For each folder indicate that it's not a file and is clickable.
+
+Please add at least **two** of the following features:
+
 - Allow a user to open a folder to see it’s contents
 - Sort by name/size/date
 - Filter by filename
