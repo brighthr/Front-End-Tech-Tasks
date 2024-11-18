@@ -24,9 +24,9 @@ For each folder indicate that it's not a file and is clickable.
 
 Please add at least **two** of the following features:
 
-- Allow a user to open a folder to see it’s contents
-- Sort by name/size/date
-- Filter by filename
+1. Allow a user to open a folder to see it’s contents
+1. Sort by name/size/date
+1. Filter by filename
 
 Your solution readme should include:
 
