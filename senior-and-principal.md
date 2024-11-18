@@ -47,4 +47,4 @@ We will take a look as soon as we can and if you are successful at this stage yo
 
 - We'll begin by getting you to talk through your solution, there is no structure to this we're interested in how you think about code and how you communicate what you've done.
 
-- Secondly, once we're settled, in we'll work on a new requirement together. This will NOT be an exam - we'll work through the solution together with you doing as much of the coding as you feel comfortable with. The aim isn't to finish, but to see how you approach new requirements and how you work with others.
+- Secondly, once we're settled, we'll work on a new requirement together. This will NOT be an exam - we'll work through the solution together with you doing as much of the coding as you feel comfortable with. The aim isn't to finish, but to see how you approach new requirements and how you work with others.
