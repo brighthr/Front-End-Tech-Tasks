@@ -1,5 +1,8 @@
 name: front-end-kata.brighthr.workers.dev
 
+permissions:
+  contents: read
+
 on:
   push:
     branches: [ main ]
@@ -10,8 +13,6 @@ jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
