@@ -12,6 +12,6 @@ router
 
 export default {
   async fetch(request, env, ctx) {
-    return router.handle(request);
+    return router.fetch(request);
   },
 };
