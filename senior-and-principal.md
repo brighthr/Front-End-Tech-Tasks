@@ -1,14 +1,17 @@
 # Front-end task for Senior and Principal roles
 
-Firstly, thanks for applying to work with us at BrightHR. We ask all potential candidates to complete a small task to help assess your technical skills.
+Firstly, thanks for applying to work with us at BrightHR. We ask all potential candidates to complete a task to help assess your technical skills.
 
-We appreciate your time is precious, so please don’t spend much more than a couple of hours on on it.
+We appreciate your time is precious so don't spend too long on it - however it is important to let us know what you have left out in your Readme so we can understand what you _would_ do given more time.
 
 You are free to decide what aspects of the solution you want to show off/focus on, but here are a few guidelines as to what we will be looking for:
 
-- Evidence of TDD
 - Typescript usage
-- Attention to detail
+- Modern React best practice
+- Demonstration of unit/component testing
+- Consideration for future requirements
+
+With regards to styling we expect to see enough to demonstrate your command of CSS and web display considerations, but don't consider it a priority.
 
 # The task
 
@@ -45,6 +48,7 @@ When you’ve finished please make your solution repo available on GitHub and em
 
 We will take a look as soon as we can and if you are successful at this stage your task solution will form the basis of the technical part of the interview stage.
 
-- We'll begin by getting you to talk through your solution, there is no structure to this we're interested in how you think about code and how you communicate what you've done.
+- We'll begin by getting you to talk through your solution. There is no expected structure to this, we're interested in how you think about code and how you communicate what you've done.
 
-- Secondly, once we're settled, we'll work on a new requirement together. This will NOT be an exam - we'll work through the solution together with you doing as much of the coding as you feel comfortable with. The aim isn't to finish, but to see how you approach new requirements and how you work with others.
+- We may ask you to explain how you would approach a new requirement or a solve a specific problem in your solution.
+  This will not be a live coding excercise, but we will expect you to be able to comprehensively describe what steps you would take in the context of your current solution.
