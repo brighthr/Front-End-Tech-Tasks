@@ -13,6 +13,8 @@ You are free to decide what aspects of the solution you want to show off/focus o
 
 With regards to styling we expect to see enough to demonstrate your command of CSS and web display considerations, but don't consider it a priority.
 
+We're as interested in the process that you go through to develop the code as the end result, so please commit early and often so we can see the steps that you go through to arrive at your solution. We want to see a git repository containing your solution, ideally uploaded to your own github account.
+
 # The task
 
 Use the endpoints provided at the urls below to create a simple SPA with a table displaying absences.

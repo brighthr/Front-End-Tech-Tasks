@@ -11,6 +11,8 @@ You are free to decide what aspects of the solution you want to show off/focus o
 - Demonstration of unit/component testing
 - Attention to detail
 
+We're as interested in the process that you go through to develop the code as the end result, so please commit early and often so we can see the steps that you go through to arrive at your solution. We want to see a git repository containing your solution, ideally uploaded to your own github account.
+
 # The task
 
 BrightHR has a section for storing, uploading and viewing documents. We would like you to build a single page application where a user can view documents that an administrator user has previously uploaded. The application should show a list of folders and files.
