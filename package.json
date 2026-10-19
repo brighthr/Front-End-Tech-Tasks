@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0",
-    "wrangler": "^4.131.0"
+    "wrangler": "^4.151.1"
   },
   "dependencies": {
     "itty-router": "^5.0.18"
