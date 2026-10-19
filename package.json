@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "wrangler dev",
@@ -19,6 +22,6 @@
     "itty-router": "^5.0.18"
   },
   "overrides": {
-    "undici": "7.29.0"
+    "undici": "7.29.1"
   }
 }
